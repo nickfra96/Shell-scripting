@@ -1,5 +1,5 @@
 
-#esegue istruzioni contenute nel file istruzioni.txt per copiare ed incollare dalla cartA a cartB
+#esegue istruzioni contenute nel file istruzioni.txt per copiare ed incollare i file  dalla cartA a cartB
 #esempio riga istruzioni.txt = <nome_file> <num_righe_iniziali> <num_righe_finali> (ESEMPIO: test.txt 7 5)
 
 if [ ! -f $1 ]; then
